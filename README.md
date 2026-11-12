@@ -1,1 +1,1 @@
-# tic_tac_toe
+In this project I will be making a Tic Tac Toe game that will be able to be played inside the browser using html, css and javascript.
